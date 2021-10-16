@@ -1,0 +1,9 @@
+name: RankRewards
+version: '${project.version}'
+main: frolic.rankrewards.RankRewards
+api-version: 1.16
+author: Frolic_gamers
+commands:
+  rankredeem:
+    description: Opens Rank Rewards GUI
+    usage: /<command>
